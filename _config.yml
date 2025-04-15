@@ -1,0 +1,5 @@
+title: My Awesome Site
+description: A simple Jekyll site
+theme: minima  # Default GitHub-supported theme
+plugins:
+  - jekyll-feed  # Enabled by default
